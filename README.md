@@ -1,10 +1,19 @@
-Сourse project
+Сourse project.
+
 "Two pages of an own web-site"
-Used
+
+Used:
+
 html
+
 css
+
 materialize
-Used library
+
+Used library:
+
 jQuery
-Web-site overview
-This is a simple web site of a tour agency. It has a responsible web-design.
+
+Web-site overview:
+
+This is a simple web site of a tour agency. It has also a responsible web-design.
